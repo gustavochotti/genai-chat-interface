@@ -61,3 +61,19 @@ Antes de executar o projeto, você precisará:
 - requirements.txt # Arquivo com as dependências do projeto
 - README.md # Este arquivo
 
+
+### Dependências
+
+As dependências do projeto estão listadas no arquivo `requirements.txt`. As principais são:
+
+- [Gradio](https://gradio.app/) - para criar a interface gráfica.
+- [Google Generative AI Python Client](https://pypi.org/project/google-generativeai/) - para interagir com a API da Google Generative AI.
+
+### Notas Importantes
+
+- **API Key**: Certifique-se de manter sua chave da API em segurança e não compartilhá-la publicamente.
+- **Limitações**: Certifique-se de que a sua chave da API possui permissões adequadas e de que você está ciente de qualquer limitação de uso imposta pela Google.
+
+### Licença
+
+Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](./LICENSE) para mais detalhes.
