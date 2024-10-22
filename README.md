@@ -55,7 +55,7 @@ Antes de executar o projeto, você precisará:
 
 1. Execute o script:
     ```bash
-    python nome-do-script.py
+    main.py
     ```
 
 2. Acesse a interface no navegador, que será aberta automaticamente, ou siga o link que será exibido no terminal.
