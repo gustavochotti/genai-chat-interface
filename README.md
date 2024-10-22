@@ -12,6 +12,10 @@ Este projeto é uma interface gráfica simples, construída com [Gradio](https:/
 - **Geração de respostas:** A resposta gerada pelo modelo selecionado é exibida, juntamente com um histórico de interações anteriores.
 - **Limpar histórico:** O usuário pode limpar o histórico de perguntas e respostas.
 
+## Demonstração em Vídeo
+
+Veja o vídeo da demonstração prática do código [aqui](example.mp4).
+
 ## Pré-requisitos
 
 Antes de executar o projeto, você precisará:
